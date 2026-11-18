@@ -1,0 +1,13 @@
+{
+  "name": "nexus7-pbc-demo",
+  "version": "1.0.0",
+  "description": "Demo di piattaforma Play-by-Chat sci-fi con Vue 3 e Socket.io",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0",
+    "socket.io": "^4.8.0"
+  }
+}
